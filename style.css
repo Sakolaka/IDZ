@@ -1,0 +1,39 @@
+ 
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 1000;
+    color:black;
+ }
+
+ body{
+    background: #075852fb;
+ }
+
+ #canvas{
+    background: rgb(4, 124, 16);
+    border-radius: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid rgb(26, 25, 25);
+ }
+
+ .high-score{
+     position: absolute;
+    top: 1rem;
+    width: 80%;
+    left: 10%;
+    text-align: center;
+ }
+
+ .reset{
+    cursor: pointer;
+    position: absolute;
+    top: 95%;
+    left: 10%;
+    width: 80%;
+    text-align: center;
+ }
