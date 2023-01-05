@@ -1,1 +1,6 @@
-IDZ for Intertet-technologies
+# iIDZ
+Repo for IDZ
+
+# Группа: КИУКИ-20-4
+# Автор: Лобанов Кирилл Сергеевич 
+# JS, Гра, Breakout.
